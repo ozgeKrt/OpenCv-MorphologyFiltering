@@ -1,5 +1,5 @@
 # OpenCv-CesitliCalismalar
-OpenCv uygulamaları yapılmıştır.
+OpenCv morfolojik filtreleme yapılmıştır.
 
 ##Contributors
 
